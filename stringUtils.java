@@ -1,1 +1,2 @@
-This java class contains all the string utility functions
+This java class contains all the string utility functioghg
+  ytyujnj
